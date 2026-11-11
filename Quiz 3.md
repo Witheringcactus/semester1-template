@@ -9,7 +9,7 @@ def mystery(n):
 2. Why does naive recursive Fibonacci become so slow for larger n?
 
 
-3. What does memoization do, and what's the tradeoff?
+3. What does memorization do, and what's the tradeoff?
 
 
 4. What makes a recursive call "tail position," and why does that matter in Clojure?
